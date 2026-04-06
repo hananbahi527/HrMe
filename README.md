@@ -1,4 +1,4 @@
-# Hr Me
+# HrMe
 
 Welcome to the Nutrition Website! This project is designed to provide users with valuable information about nutrition, healthy eating habits, and personalized diet plans.
 
