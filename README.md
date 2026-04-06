@@ -5,7 +5,6 @@ Welcome to the Nutrition Website! This project is designed to provide users with
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -22,29 +21,7 @@ The Nutrition Website aims to educate users on the importance of balanced nutrit
 - **Healthy Recipes:** Discover and share recipes designed for optimal nutrition.
 - **Blog:** Read articles on nutrition, health, and wellness.
 
-## Installation
 
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/yourusername/nutrition-website.git
-    ```
-
-2. **Navigate to the project directory:**
-
-    ```bash
-    cd nutrition-website
-    ```
-
-3. **Install dependencies:**
-
-    If your project is built with Node.js:
-
-    ```bash
-    npm install
-    ```
-
-    Or if using Python:
 
     ```bash
     pip install -r requirements.txt
