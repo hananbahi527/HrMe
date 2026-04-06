@@ -5,9 +5,8 @@ Welcome to the Nutrition Website! This project is designed to provide users with
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Tech Stack](#TechStack)
 - [Contact](#contact)
 
 ## Project Overview
@@ -21,19 +20,16 @@ The Nutrition Website aims to educate users on the importance of balanced nutrit
 - **Healthy Recipes:** Discover and share recipes designed for optimal nutrition.
 - **Blog:** Read articles on nutrition, health, and wellness.
 
+##  Tech Stack
 
+This project was built using the following core web technologies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+- **HTML5**: For structured content and web layout.
+- **CSS3**: For styling, animations, and responsive design.
+- **JavaScript**: For interactive features and application logic.
 
-4. **Set up environment variables:**
-   - Create a `.env` file in the root directory.
-   - Add necessary environment variables (e.g., API keys, database URIs).
-
-## Usage
-
-To start the website locally, run:
-
-```bash
-npm start
+## Contributing
+* **Hanan Ayman**: Project Structure & HTML Skeleton.
+* **Menna Mohamed**: UI Design & Responsive Styling (CSS).
+* **Rahma Abdou**: Interactivity & Client-side Validation (JS).
+* **Eman Abdelhamid**: Application Logic & Dynamic Features.
