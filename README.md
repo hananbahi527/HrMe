@@ -5,9 +5,8 @@ Welcome to the Nutrition Website! This project is designed to provide users with
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Contributing](#contributing)
 - [Tech Stack](#TechStack)
-- [Contact](#contact)
+- [Contributing](#contributing)
 
 ## Project Overview
 
@@ -19,7 +18,7 @@ The Nutrition Website aims to educate users on the importance of balanced nutrit
 - **Nutritional Information:** Access detailed nutritional facts for various foods.
 - **Healthy Recipes:** Discover and share recipes designed for optimal nutrition.
 - **Blog:** Read articles on nutrition, health, and wellness.
-
+  
 ##  Tech Stack
 
 This project was built using the following core web technologies:
@@ -29,7 +28,10 @@ This project was built using the following core web technologies:
 - **JavaScript**: For interactive features and application logic.
 
 ## Contributing
+
+We are proud of our team who worked hard to bring **HR Me** to life:
 * **Hanan Ayman**: Project Structure & HTML Skeleton.
 * **Menna Mohamed**: UI Design & Responsive Styling (CSS).
 * **Rahma Abdou**: Interactivity & Client-side Validation (JS).
 * **Eman Abdelhamid**: Application Logic & Dynamic Features.
+
