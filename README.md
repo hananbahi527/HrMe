@@ -30,8 +30,6 @@ This project was built using the following core web technologies:
 ## Contributing
 
 We are proud of our team who worked hard to bring **HR Me** to life:
-* **Hanan Ayman**: Project Structure & HTML Skeleton.
-* **Menna Mohamed**: UI Design & Responsive Styling (CSS).
-* **Rahma Abdou**: Interactivity & Client-side Validation (JS).
-* **Eman Abdelhamid**: Application Logic & Dynamic Features.
+Hanan Ayman: Frontend Developer & Project Structure (HTML & JavaScript logic).
+Menna Mohamed: UI/UX Designer & Styling Specialist (CSS & Layout design)
 
